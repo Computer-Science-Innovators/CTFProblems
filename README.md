@@ -26,3 +26,7 @@ It seems my friend Joe won&#39;t stop sending cryptic messages and he keeps mumb
 Sherlock has messed up with Dr. Watson’s blog, and has hidden a code inside the website. Can you help Dr. Watson find the code.
 
 [Watson's blog](https://www.google.com "Watson's Blog")
+
+***
+
+Submit you answers [here](https://docs.google.com/forms/d/e/1FAIpQLSeoeU8_nMeeAKkl2cZ9GW4QdN5P0LIT7qp4rN-BnBXMjNI-Uw/viewform "Answer form")!
