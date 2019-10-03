@@ -19,7 +19,7 @@ What the HEX man! My friend Rohan just posted this message and I have no idea wh
 
 ## Cover all the bases
 
-It seems my friend Joe won&#39;t stop sending cryptic messages and he keeps mumbling something about base 64. Quick! We need to figure out what he is trying to say before he loses his mind... `Y3Npe2Jhc2ViYWxsfQ==`
+It seems my friend Rahul won&#39;t stop sending cryptic messages and he keeps mumbling something about base 64. Quick! We need to figure out what he is trying to say before he loses his mind... `Y3Npe2Jhc2ViYWxsfQ==`
 
 ## I spy with my little eye…
 
